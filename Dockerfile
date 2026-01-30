@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:24.13.0-alpine3.23
 
 LABEL \
   org.opencontainers.image.title="pull" \
